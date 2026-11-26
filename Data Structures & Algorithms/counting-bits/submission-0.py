@@ -1,3 +1,6 @@
+# Time complexity: O(n log n)
+# Space complexity: O(n)
+
 class Solution:
     def countBits(self, n: int) -> List[int]:
         results = []
