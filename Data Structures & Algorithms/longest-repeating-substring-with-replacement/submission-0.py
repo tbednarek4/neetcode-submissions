@@ -1,3 +1,6 @@
+# n chars in string s
+# m unique chars in string s
+
 # Time complexity: O(n * m)
 # Space complexity: O(m)
 
